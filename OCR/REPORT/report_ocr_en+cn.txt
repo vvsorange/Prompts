@@ -1,0 +1,308 @@
+Please process this image using OCR and send me the decoded text.
+不需要定位，只输出图片中的文字。
+Extract text from the image.
+我想把这幅图像上的所有文本信息转换为文字，你能做到吗？
+Identify text from the picture.
+检测图中的文字，只输出文字，不要输出坐标框。
+Would you be able to decode and retrieve all the visible text in this image?
+请读出图片内的文字，不要输出文字的具体位置。
+请读出图片中的所有文字。
+你能告诉我图中所有的文字是什么吗？
+Identify all the text content in the image.
+解析图中文字。
+Only output the text content in the photo, without including the arrangement position of the text.
+Could you read and tell me what is encoded in this image?
+提取出图中所含的文字资料。
+从图片中辨认文字。
+我想知道这张图中的所有文字写了什么，你能全部识别出来吗？
+Would you be able to read and tell me what is written on this image?
+辨认并读出照片中的文字内容，不需要输出定位信息。
+Recognize the text.
+请检查并识别图中的所有文字。
+Please decode and provide the text from this image.
+提取这张照片中的文本信息。
+Extract the textual material contained in the image.
+能告诉我图片中的所有文本内容吗？
+您能帮忙解析这张图上记录的文字吗？
+请帮我从这张图片中提炼出全部文字内容。
+请从这张图中抽取文本信息。
+解读这图上的字句，并且不提供文字的位置信息。
+能否帮忙识别图片里的所有文本并告诉我？
+识别图片中的文字。
+Could you read and tell me the text in this image?
+这张图片中含有哪些所有的文字？
+能告诉我图片中文字吗？
+能麻烦您帮我读出其文字内容吗？
+Please process this image and give me the decoded text.
+Transcribe all text on this picture.
+请将图中的所有字符准确无误地识别并记录下来。
+列出图片包含的文字内容。
+Extract the text information from this photo.
+Could you please help me analyze all the text content in the picture?
+请告诉我图片上的所有文字内容。
+Recognize text without outputting bounding boxes.
+请查看这张图片，并告诉我所有可见的文字。
+Can you identify and retrieve all visible text from this image?
+请帮我解读图片中的所有字符。
+识别文字，但不要输出坐标框。
+Please decode and provide me with the written content in this image.
+只提取文字内容。
+Read the text in this image without indicating the text position.
+你能帮我读取这张图片中所有的字符吗？
+检测图中的文字并告诉我内容。
+Identify the text in the picture.
+OCR，但是只输出文字，不包括坐标。
+这张图中包含哪些所有的文字内容？
+Could you process this image using OCR technology and provide me with the resulting text?
+Extract the text, no need to display the bounding box.
+What text is hidden in this image?
+识别这图中的文本。
+Could you decode and provide me with the exact words hidden in this image?
+请识别图中所有的文字。
+I require the transcribed text from this image.
+这张照片里的所有文字是什么？请告诉我。
+List the text content included in the picture.
+提取图片中的文字，但不要提供文字位置。
+读取这图像内的文本，无需标出文字位置。
+从图像中提取文本。
+你能输出一下图片中的所有文字吗？我需要这些信息。
+OCR, but output only the text, not including the coordinates.
+请将图片上的所有文字输出给我。
+Please extract the text information from this picture.
+Please extract the text from the photo.
+读取图像上的文字。
+Would you be able to read out and tell me what is encoded in this image?
+OCR这张照片，只输出文字内容。
+Extract the text from the picture, but do not provide the text position.
+Please decode and provide me with the textual content in this image.
+请将这幅图像中的所有文字详细地列出来。
+这张照片里的所有文字是什么？
+只提取文字，但不要输出文字位置。
+请帮忙提取图片上的所有文字信息。
+Could you decode and provide me with the text in this image?
+请帮我识别图片中的所有文字内容。
+Look at this picture and tell me what is written on it.
+我需要你分析这张图片，并提取上面全部的文字内容。
+Could you retrieve all text from this image?
+Can you tell me the text in the picture?
+Please help to read out and report the text on this picture.
+我需要你分析图片，并提取上面所有的文字。
+提取这张照片中的文本信息，但不要输出文字所在位置。
+查看这张图片，并告诉我上面写了些什么，不要输出文字坐标。
+识别文字。
+Could you extract the written content from this image?
+What is the exact text encoded in this image?
+你能帮忙识别图中的所有文字吗？
+Read the text on the image.
+What are the exact words displayed in this image?
+What exact words are encoded in this image?
+检测图中的文字。
+能否告诉我图中所有的文字是什么？
+请提取照片里的文本。
+转录这张图片上的所有文字。
+图中的文字内容是什么，请识别所有的。
+Please decode and provide me with the text hidden in this image.
+Please tell me what is written on this image.
+能输出一下图片中的所有文字吗？
+Extract text content from the image.
+能否将这幅图像中的所有文字详细地列出来？
+Could you read out the displayed words in this image?
+Can you identify all the words in this image?
+请仅提取并报告文本，无需提及文字的具体位置。
+请将图中的文字内容写出来。
+这张图上的所有文本是什么？
+Get the text content from the picture, no need to provide location information.
+Extract only the text, but do not output the text position.
+Would you be able to decode the characters in this image?
+Extract the text from the picture, but I do not wish to display the specific location of the text.
+请将图片中的所有文字输出出来。
+Please write out the text content from the image.
+仅输出照片中的文字内容，不包含文字的排列位置。
+获取图片中的文字内容，无需提供位置信息。
+Could you decode and provide me with the exact words in this image?
+Retrieve the sentences in the image, ignoring the background, providing text only.
+Would you be able to read and retrieve all the words in this image?
+Is it possible to identify all words in this image?
+能否帮忙识别这张图片里的全部文本并告诉我？
+Interpret the sentences content on this picture.
+Could you help me read all the text content on this picture?
+Output only the text from the picture without location.
+Please process this image using OCR and provide me with the text.
+这张图上的全部文本是什么？请详细告诉我。
+能否请您帮我解析图片中的所有文字内容？
+图中有哪些所有的文字内容？
+Please extract and report the text only, without mentioning the specific location of the text.
+请帮我识别图片上的所有文本。
+Detect the text in the image.
+What text is visible in this image?
+提取这张照片中的文本信息，但不要输出坐标。
+What exact words are present in this image?
+Please tell me all the text content on the picture.
+Identify the text content in the photo but without including the text coordinates.
+Parse the text in the picture.
+Look at this picture and tell me what is written on it without outputting text coordinates.
+Interpret the sentences on the picture without providing the text position information.
+Can you convert the text in this image into written form?
+Identify and read out the text content in the photo, there is no need to output location information.
+What is the exact text visible in this image?
+Extract the text information from this photo without exporting the location of the text.
+请分析这幅图片，并告诉我上面所有的文本内容。
+Would you be able to decode and retrieve all the textual content from this image?
+只提取文字，坐标框不用显示。
+Detect the text in the image; only output the text, do not output the bounding box.
+Output only the text, do not output text coordinates.
+Would you be able to decode and retrieve all the written content from this image?
+Identify the text in this image.
+请给出图片里所有的文字。
+Can you identify and retrieve all the words in this image?
+Could you read and tell me what is written on this image?
+请给出图片里所有的文字，我需要知道它们是什么。
+识别照片中的文字内容，但不包括文字的坐标。
+请问您能帮我读取这张图片上的所有文字内容吗？
+Could you please help me read its text content?
+Perform OCR on this picture, but do not output the coordinates.
+我很想知道这张图中所有的文字写了些什么，你能全部识别一下吗？
+对这幅图片进行OCR，但是不要输出坐标。
+Extract the text information from this photo, but do not output the coordinates.
+提取图片中的文字，但不希望显示文字的具体位置。
+OCR this photo, outputting only text content.
+请帮我解读这张图片中的全部字符。
+请分析这张图片，并提取其中的所有文字。
+What exact words are visible in this image?
+劳烦帮忙读出并报告这张图上的文字。
+请帮忙详细地输出出图片中的所有文字。
+Please read the text inside the picture, do not output the specific position of the text.
+能否帮我读取图片中的所有字符？
+Please decode and provide me with the written content hidden in this image.
+Would you be able to read the text from this image?
+请识别并列出图片中的所有文本信息。
+从图像中提取文本内容。
+Detect the text in the image and tell me the content.
+检索图中的字句，忽略背景，只提供文字。
+查看这张图片，并告诉我上面写了些什么。
+Would you be able to extract all visible text from this image?
+这张照片中的所有文本是什么内容？
+图中有哪些所有的文字内容？请列举出来。
+你能帮忙识别图中的所有文字吗？我需要知道它们的具体内容。
+Could you read out and tell me what is written on this image?
+Would you be able to extract and decode all the text in this image?
+What textual content is encoded in this image?
+Can you decode the text in this image?
+Extract only the text content.
+Could you decode and retrieve all the visible words in this image?
+你能将这幅图像中的所有文字详细地列出来吗？
+只输出文字，不要输出文字坐标。
+你能给我图片中所有的文本内容吗？
+Please process this image using OCR technology and send me the resulting text.
+Could you decode the text in this image?
+解读这张图片上的字句内容。
+识别图片中的所有文字内容。
+这张图上写着什么所有的文字？
+Can you help me analyze the text noted on this picture?
+Could you transcribe the formula in the image into LaTeX format?
+Please express the formula from the image in LaTeX notation.
+Kindly write the formula shown in the image using LaTeX.
+Would you mind converting the formula from the image into LaTeX format?
+Could you represent the formula from the image using LaTeX code?
+Please write out the expression of the formula in LaTeX form based on the image.
+Could you provide the LaTeX version of the formula from the image?
+I’d appreciate it if you could translate the formula from the image into LaTeX syntax.
+Can you show the formula in the image using LaTeX?
+Please convert the formula seen in the image into LaTeX format.
+Please write out the expression of the formula in the image using LaTeX format.
+Can you help me analyze the text noted on this picture?
+Could you transcribe the formula in the image into LaTeX format?
+Please express the formula from the image in LaTeX notation.
+Kindly write the formula shown in the image using LaTeX.
+Would you mind converting the formula from the image into LaTeX format?
+Could you represent the formula from the image using LaTeX code?
+Please write out the expression of the formula in LaTeX form based on the image.
+Could you provide the LaTeX version of the formula from the image?
+I’d appreciate it if you could translate the formula from the image into LaTeX syntax.
+Can you show the formula in the image using LaTeX?
+Please convert the formula seen in the image into LaTeX format.
+Please write out the expression of the formula in the image using LaTeX format.
+Can you help me analyze the text noted on this picture?
+Could you transcribe the formula in the image into LaTeX format?
+Please express the formula from the image in LaTeX notation.
+Kindly write the formula shown in the image using LaTeX.
+Would you mind converting the formula from the image into LaTeX format?
+Could you represent the formula from the image using LaTeX code?
+Please write out the expression of the formula in LaTeX form based on the image.
+Could you provide the LaTeX version of the formula from the image?
+I’d appreciate it if you could translate the formula from the image into LaTeX syntax.
+Can you show the formula in the image using LaTeX?
+Please convert the formula seen in the image into LaTeX format.
+Please write out the expression of the formula in the image using LaTeX format.
+Can you help me analyze the text noted on this picture?
+Could you transcribe the formula in the image into LaTeX format?
+Please express the formula from the image in LaTeX notation.
+Kindly write the formula shown in the image using LaTeX.
+Would you mind converting the formula from the image into LaTeX format?
+Could you represent the formula from the image using LaTeX code?
+Please write out the expression of the formula in LaTeX form based on the image.
+Could you provide the LaTeX version of the formula from the image?
+I’d appreciate it if you could translate the formula from the image into LaTeX syntax.
+Can you show the formula in the image using LaTeX?
+Please convert the formula seen in the image into LaTeX format.
+Please write out the expression of the formula in the image using LaTeX format.
+Can you help me analyze the text noted on this picture?
+Could you transcribe the formula in the image into LaTeX format?
+Please express the formula from the image in LaTeX notation.
+Kindly write the formula shown in the image using LaTeX.
+Would you mind converting the formula from the image into LaTeX format?
+Could you represent the formula from the image using LaTeX code?
+Please write out the expression of the formula in LaTeX form based on the image.
+Could you provide the LaTeX version of the formula from the image?
+I’d appreciate it if you could translate the formula from the image into LaTeX syntax.
+Can you show the formula in the image using LaTeX?
+Please convert the formula seen in the image into LaTeX format.
+Please write out the expression of the formula in the image using LaTeX format.
+Can you help me analyze the text noted on this picture?
+Could you transcribe the formula in the image into LaTeX format?
+Please express the formula from the image in LaTeX notation.
+Kindly write the formula shown in the image using LaTeX.
+Would you mind converting the formula from the image into LaTeX format?
+Could you represent the formula from the image using LaTeX code?
+Please write out the expression of the formula in LaTeX form based on the image.
+Could you provide the LaTeX version of the formula from the image?
+I’d appreciate it if you could translate the formula from the image into LaTeX syntax.
+Can you show the formula in the image using LaTeX?
+Please convert the formula seen in the image into LaTeX format.
+Please write out the expression of the formula in the image using LaTeX format.
+Can you help me analyze the text noted on this picture?
+Could you transcribe the formula in the image into LaTeX format?
+Please express the formula from the image in LaTeX notation.
+Kindly write the formula shown in the image using LaTeX.
+Would you mind converting the formula from the image into LaTeX format?
+Could you represent the formula from the image using LaTeX code?
+Please write out the expression of the formula in LaTeX form based on the image.
+Could you provide the LaTeX version of the formula from the image?
+I’d appreciate it if you could translate the formula from the image into LaTeX syntax.
+Can you show the formula in the image using LaTeX?
+Please convert the formula seen in the image into LaTeX format.
+Please write out the expression of the formula in the image using LaTeX format.
+Can you help me analyze the text noted on this picture?
+Could you transcribe the formula in the image into LaTeX format?
+Please express the formula from the image in LaTeX notation.
+Kindly write the formula shown in the image using LaTeX.
+Would you mind converting the formula from the image into LaTeX format?
+Could you represent the formula from the image using LaTeX code?
+Please write out the expression of the formula in LaTeX form based on the image.
+Could you provide the LaTeX version of the formula from the image?
+I’d appreciate it if you could translate the formula from the image into LaTeX syntax.
+Can you show the formula in the image using LaTeX?
+Please convert the formula seen in the image into LaTeX format.
+Please write out the expression of the formula in the image using LaTeX format.
+Can you help me analyze the text noted on this picture?
+Could you transcribe the formula in the image into LaTeX format?
+Please express the formula from the image in LaTeX notation.
+Kindly write the formula shown in the image using LaTeX.
+Would you mind converting the formula from the image into LaTeX format?
+Could you represent the formula from the image using LaTeX code?
+Please write out the expression of the formula in LaTeX form based on the image.
+Could you provide the LaTeX version of the formula from the image?
+I’d appreciate it if you could translate the formula from the image into LaTeX syntax.
+Can you show the formula in the image using LaTeX?
+Please convert the formula seen in the image into LaTeX format.
+Please write out the expression of the formula in the image using LaTeX format.

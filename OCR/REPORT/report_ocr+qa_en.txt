@@ -1,0 +1,121 @@
+Please process this image using OCR and send me the decoded text. After extracting the text, please answer the following question: {}
+Extract text from the image. Once you've extracted all the text, please answer the question: {}
+Identify text from the picture. After identifying the text, kindly provide your answer to the following: {}
+Would you be able to decode and retrieve all the visible text in this image? After doing so, please answer the following question: {}
+Identify all the text content in the image. Once you have identified all the text, please provide an answer to: {}
+Only output the text content in the photo, without including the arrangement position of the text. After extracting the text, kindly answer the following: {}
+Could you read and tell me what is encoded in this image? Once you have decoded the text, please answer the question: {}
+Would you be able to read and tell me what is written on this image? After reading the text, please provide your answer to: {}
+Recognize the text. Once you've recognized it, kindly proceed to answer the following question: {}
+Please decode and provide the text from this image. After decoding, please answer the following question: {}
+Extract the textual material contained in the image. Once extracted, please answer the following: {}
+Could you read and tell me the text in this image? After reading it, please proceed to answer: {}
+Please process this image and give me the decoded text. After decoding, kindly answer the following: {}
+Transcribe all text on this picture. Once transcribed, please provide the answer to: {}
+Extract the text information from this photo. After extraction, kindly respond to the following question: {}
+Could you please help me analyze all the text content in the picture? Once analyzed, kindly provide an answer to: {}
+Recognize text without outputting bounding boxes. After recognizing, please proceed to answer: {}
+Can you identify and retrieve all visible text from this image? After identifying, please answer the question: {}
+Please decode and provide me with the written content in this image. Once decoded, please answer the following: {}
+Read the text in this image without indicating the text position. After reading, please answer: {}
+Identify the text in the picture. Once identified, kindly provide the answer to: {}
+Could you process this image using OCR technology and provide me with the resulting text? After processing, kindly answer: {}
+Extract the text, no need to display the bounding box. Once extracted, please respond to: {}
+What text is hidden in this image? After revealing the text, kindly answer: {}
+Could you decode and provide me with the exact words hidden in this image? After decoding, please provide your answer to: {}
+I require the transcribed text from this image. Once transcribed, kindly respond to: {}
+List the text content included in the picture. After listing the content, please answer the following question: {}
+I have a question: {} Please extract all the text from the image and then answer.
+I would like to ask: {} Please first extract the text from the image and then provide your answer.
+Could you please help me with: {} First, extract the text from the image, and then answer.
+Here's a question: {} Please decode the text in the image and then provide your response.
+I need help with: {} Please read the text from the image and then answer the following.
+Can you help me with: {} Please extract all the visible text from the image and answer.
+Here's a query: {} Please decode the image and provide your answer.
+I would appreciate if you could: {} Extract the text and provide the answer afterward.
+I’m wondering: {} Please read and identify the text from the image, and then answer.
+I have a query: {} Please transcribe the text from the image and then give your response.
+Please help me with this: {} First, identify all the text in the image, then answer the question.
+I need assistance with: {} Please extract the text and then provide the answer.
+Can you assist me with: {} Extract the text from the image first, and then answer.
+I would like to know: {} After extracting the text, please give your response.
+I’m curious: {} Decode the text from the image and then answer the following.
+Can you assist me with: {} Transcribe all text and then provide the answer.
+Here's a question for you: {} After identifying the text, kindly answer the question.
+I’d like to ask: {} Please process the image and give me your answer afterward.
+Could you help with: {} First, extract the text and then answer the query.
+Here's what I need: {} Please transcribe all the text and then answer.
+I’m asking about: {} Please read the text and provide your answer afterward.
+Could you help with: {} Decode the text and answer my question.
+I need clarification on: {} Please transcribe the text and provide the response.
+I have a concern: {} After extracting the text, please provide your answer.
+Would you mind: {} Please decode and extract the text, then answer the following question.
+Could you assist with: {} Please extract the text from the picture and answer.
+Please help with: {} After recognizing the text, kindly answer my question.
+Here’s what I need to know: {} Please extract the visible text and answer the question.
+I need help with: {} First, read the text and then answer.
+Can you assist me with: {} Please process the image and then provide the answer.
+I’m asking: {} Please decode the text and provide the answer.
+I have a query: {} After decoding the text, kindly provide your answer.
+I’m wondering: {} Extract all the text from the image and then answer.
+Could you assist me with: {} First, transcribe the text, then answer the question.
+I need to know: {} Decode the image’s text and provide the answer afterward.
+Please help me: {} Extract the text from the picture and then give me your response.
+Could you help with: {} Once the text is extracted, kindly provide your answer.
+Here’s a question: {} Please decode the text and answer the following.
+I have a question: {} Once the text is identified, kindly answer the query.
+I need help with: {} After extracting the text from the image, please respond.
+Please extract the text from the image and answer: {}
+Could you read the text and answer: {}
+Extract the text and answer: {}
+Please decode the image and respond: {}
+Read the text and then answer: {}
+Extract the text and provide the answer: {}
+Decode the text and answer: {}
+Please transcribe the text and respond: {}
+After extracting the text, answer: {}
+Identify the text and then answer: {}
+Can you extract the text and answer: {}
+Please recognize the text and give an answer: {}
+After decoding the text, please answer: {}
+Transcribe the image’s text and respond: {}
+Read the text and then provide your response: {}
+Extract the text and then answer: {}
+Can you read and transcribe the text, then answer: {}
+Decode and provide the text, then answer: {}
+Extract and transcribe the text, then answer: {}
+Please extract and decode the text, then respond: {}
+Please carefully extract all the text visible in the image and once you’ve done that, kindly provide me with the answer to the following question: {}.
+I would appreciate it if you could process the image, extract every visible word, and then proceed to answer the question that follows: {}.
+Could you please identify and transcribe all the text contained in the image, and after doing so, answer the question provided: {}.
+Please take your time to extract all the visible text from the image and once you have completed this, kindly provide an answer to the question below: {}.
+I would like you to first decode all the text in the image and then, once you’ve finished, please provide the answer to this specific question: {}.
+Kindly extract the complete text from the image, and once that is done, please go ahead and answer the following question: {}.
+After recognizing and transcribing all the text in the image, could you please proceed with answering the question: {}.
+Please analyze the image, extract all visible text, and once you have completed the extraction, kindly provide the answer to the question that follows: {}.
+Could you process the image by extracting every piece of text, and after you’ve done that, please provide the necessary answer to the following question: {}.
+Kindly extract the text from the image, transcribe it accurately, and once that’s done, please proceed to answer the query: {}.
+I need your help to extract all the visible text in the image, and once you’ve successfully decoded it, please provide me with the answer to the following: {}.
+After decoding and extracting all the text from the image, could you kindly proceed with providing an answer to the following question: {}.
+Please carefully process the image and extract all the visible text, and once you’ve done that, kindly provide the corresponding answer to the question: {}.
+Could you assist by decoding all the visible text in the image, and once extracted, kindly answer the question provided: {}.
+Please extract all the textual information from the image and after doing so, kindly respond to the following question: {}.
+I would like you to carefully recognize all the visible text in the image, and once you've extracted it, please proceed with answering the question: {}.
+Could you read and transcribe every piece of text from the image, and once completed, kindly provide your response to the question below: {}.
+Please take a moment to extract the text from the image and once you’ve finished that, kindly go ahead and answer the question: {}.
+After decoding and extracting all the text from the image, kindly provide the answer to the question that follows: {}.
+Please carefully transcribe all the text visible in the image and after you have done so, kindly give me your answer to the following: {}.
+Read the text on the image.{}
+What are the exact words displayed in this image?{}
+What exact words are encoded in this image?{}
+Could you decode and provide me with the exact words in this image?{}
+Retrieve the sentences in the image, ignoring the background, providing text only.{}
+Would you be able to read and retrieve all the words in this image?{}
+Is it possible to identify all words in this image?{}
+What exact words are present in this image?{}
+Please tell me all the text content on the picture.{}
+Identify the text content in the photo but without including the text coordinates.{}
+Parse the text in the picture.{}
+Look at this picture and tell me what is written on it without outputting text coordinates.{}
+Interpret the sentences on the picture without providing the text position information.{}
+Can you convert the text in this image into written form?{}

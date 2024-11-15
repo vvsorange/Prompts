@@ -1,0 +1,19 @@
+| Category | Input        | Txt-name                                               | Output                      | Language  | Example                                                      |
+| :------- | :----------- | :----------------------------------------------------- | :-------------------------- | :-------- | :----------------------------------------------------------- |
+| **OCR**  | **TABLE**    | table_csv_cn.txt                                       | Csv                         | cn        | 请将图片中的表格导出为csv格式。                              |
+|          |              | table_json_cn.txt                                      | Jsonl                       | cn        | 请将图片中的表格导出为json格式。                             |
+|          |              | table_lp-short_cn.txt                                  | Short Description           | cn        | 请简述这个表格。                                             |
+|          |              | table_md_cn.txt                                        | Markdown                    | cn        | 请将图片中的表格导出为markdown格式。                         |
+|          |              | table_ocr+qa_cn.txt<br/>table_ocr+qa_en.txt            | Ocr and Answer the question | cn<br/>en | 请识别并记录表格中的所有内容，然后回复以下问题：{} What content is hidden in this table? After revealing it, kindly answer: {} |
+|          | **REPORT**   | report_Analysis_cn.txt                                 | Analysis Report             | cn        | 根据图表中的信息，撰写一份详细的数据分析报告。               |
+|          |              | report_ocr_en+cn.txt                                   | Ocr                         | en+cn     | Please process this image using OCR and send me the decoded text.<br/>不需要定位，只输出图片中的文字。 |
+|          |              | report_ocr-detail_cn.txt                               | Detail Ocr                  | cn        | 你能否详细解读图片中的所有文字？                             |
+|          |              | report_ocr+qa_cn.txt<br/>report_ocr+qa_en.txt          | Ocr and Answer the Question | cn<br/>en | 请读出图片中的所有文字，然后回复以下问题：{}<br/>What text is hidden in this image? After revealing the text, kindly answer: {} |
+|          | **CHART**    | chart_lp-detail_cn.txt<br/>chart_lp-detail_cn.txt      | Detail Description          | cn<br/>en | 请提供图表的详细描述。<br/>Please provide a detailed description of the chart. |
+|          |              | chart_lp-normal-withtrend_cn.txt                       | Data and Trend Description  | cn        | 请描述图表中的各项数据及趋势。                               |
+|          |              | chart_lp-simple_cn.txt<br/>chart_lp-simple_en.txt      | Simple Description          | cn<br/>en | 请用简单的话语描述一下这张图表。<br/>Please describe this chart in simple terms. |
+|          |              | chart_md_cn.txt                                        | Markdown                    | cn        | 请将图片中的数据导出为markdown格式。                         |
+|          |              | chart_nonumber-md_cn.txt                               | Estimated Values Markdown   | cn        | 请帮我估计数值并以markdown格式输出。                         |
+| **MATH** | **QA-photo** | qa-photo_qa_cn.txt<br/>qa-photo_qa_en.txt              | Answer the Question         | cn<br/>en | 请分析图片中的题目，并给出你的答案。<br/>Please answer the question shown in the image. |
+|          |              | qa-photo_qa+boxed_cn.txt<br />qa-photo_qa+boxed_en.txt | Solve and Box the Answer    | cn<br/>en | 请解决图片中的问题，并将最终答案用\boxed{}括起来。<br/>Please answer the question shown in the image, and enclose the final answer within \boxed{}. |
+|          |              | qa-photo_select_cn.txt<br/>qa-photo_select_en.txt      | Extract Answer Options      | cn<br/>en | 请根据图片中的内容，列出所有答案选项，无需解释。Please answer the question shown in the image, and enclose the final answer within \boxed{}. |

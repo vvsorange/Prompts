@@ -1,0 +1,121 @@
+Please process this table using OCR and send me the decoded content. After extracting the content, please answer the following question: {}
+Extract content from the table. Once you've extracted all the content, please answer the question: {}
+Identify content from the table. After identifying the content, kindly provide your answer to the following: {}
+Would you be able to decode and retrieve all the visible content in this table? After doing so, please answer the following question: {}
+Identify all the content in the table. Once you have identified all the content, please provide an answer to: {}
+Only output the content in the table, without including the arrangement position. After extracting the content, kindly answer the following: {}
+Could you read and tell me what is encoded in this table? Once you have decoded the content, please answer the question: {}
+Would you be able to read and tell me what is written on this table? After reading the content, please provide your answer to: {}
+Recognize the content in the table. Once you've recognized it, kindly proceed to answer the following question: {}
+Please decode and provide the content from this table. After decoding, please answer the following question: {}
+Extract the content contained in the table. Once extracted, please answer the following: {}
+Could you read and tell me the content in this table? After reading it, please proceed to answer: {}
+Please process this table and give me the decoded content. After decoding, kindly answer the following: {}
+Transcribe all content on this table. Once transcribed, please provide the answer to: {}
+Extract the information from this table. After extraction, kindly respond to the following question: {}
+Could you please help me analyze all the content in the table? Once analyzed, kindly provide an answer to: {}
+Recognize the table content without outputting bounding boxes. After recognizing, please proceed to answer: {}
+Can you identify and retrieve all visible content from this table? After identifying, please answer the question: {}
+Please decode and provide me with the written content in this table. Once decoded, please answer the following: {}
+Read the content in this table without indicating its position. After reading, please answer: {}
+Identify the content in the table. Once identified, kindly provide the answer to: {}
+Could you process this table using OCR technology and provide me with the resulting content? After processing, kindly answer: {}
+Extract the content, no need to display the bounding box. Once extracted, please respond to: {}
+What content is hidden in this table? After revealing it, kindly answer: {}
+Could you decode and provide me with the exact words hidden in this table? After decoding, please provide your answer to: {}
+I require the transcribed content from this table. Once transcribed, kindly respond to: {}
+List the content included in the table. After listing the content, please answer the following question: {}
+I have a question: {} Please extract all the content from the table and then answer.
+I would like to ask: {} Please first extract the content from the table and then provide your answer.
+Could you please help me with: {} First, extract the content from the table, and then answer.
+Here's some questions: {} Please decode the content in the table and then provide your response.
+I need help with: {} Please read the content from the table and then answer the following.
+Can you help me with: {} Please extract all the visible content from the table and answer.
+Here's a query: {} Please decode the table and provide your answer.
+I would appreciate if you could: {} Extract the content and provide the answer afterward.
+I’m wondering: {} Please read and identify the content from the table, and then answer.
+I have a query: {} Please transcribe the content from the table and then give your response.
+Please help me with this: {} First, identify all the content in the table, then answer the question.
+I need assistance with: {} Please extract the content and then provide the answer.
+Can you assist me with: {} Extract the content from the table first, and then answer.
+I would like to know: {} After extracting the content, please give your response.
+I’m curious: {} Decode the content from the table and then answer the following.
+Can you assist me with: {} Transcribe all content and then provide the answer.
+Here's some questions for you: {} After identifying the content, kindly answer the question.
+I’d like to ask: {} Please process the table and give me your answer afterward.
+Could you help with: {} First, extract the content and then answer the query.
+Here's what I need: {} Please transcribe all the content and then answer.
+I’m asking about: {} Please read the content and provide your answer afterward.
+Could you help with: {} Decode the content and answer my question.
+I need clarification on: {} Please transcribe the content and provide the response.
+I have a concern: {} After extracting the content, please provide your answer.
+Would you mind: {} Please decode and extract the content, then answer the following question.
+Could you assist with: {} Please extract the content from the table and answer.
+Please help with: {} After recognizing the content, kindly answer my question.
+Here’s what I need to know: {} Please extract the visible content and answer the question.
+I need help with: {} First, read the content and then answer.
+Can you assist me with: {} Please process the table and then provide the answer.
+I’m asking: {} Please decode the content and provide the answer.
+I have a query: {} After decoding the content, kindly provide your answer.
+I’m wondering: {} Extract all the content from the table and then answer.
+Could you assist me with: {} First, transcribe the text, then answer the question.
+I need to know: {} Decode the table’s text and provide the answer afterward.
+Please help me: {} Extract the text from the table and then give me your response.
+Could you help with: {} Once the text is extracted, kindly provide your answer.
+Here’s some questions: {} Please decode the text and answer the following.
+I have some questions: {} Once the text is identified, kindly answer the query.
+I need help with: {} After extracting the text from the table, please respond.
+Please extract the text from the table and answer: {}
+Could you read the text and answer: {}
+Extract the text and answer: {}
+Please decode the table and respond: {}
+Read the text and then answer: {}
+Extract the text and provide the answer: {}
+Decode the text and answer: {}
+Please transcribe the text and respond: {}
+After extracting the text, answer: {}
+Identify the text and then answer: {}
+Can you extract the text and answer: {}
+Please recognize the text and give an answer: {}
+After decoding the text, please answer: {}
+Transcribe the table’s text and respond: {}
+Read the text and then provide your response: {}
+Extract the text and then answer: {}
+Can you read and transcribe the text, then answer: {}
+Decode and provide the text, then answer: {}
+Extract and transcribe the text, then answer: {}
+Please extract and decode the text, then respond: {}
+Please carefully extract all the text visible in the table and once you’ve done that, kindly provide me with the answer to the following question: {}.
+I would appreciate it if you could process the table, extract every visible word, and then proceed to answer the question that follows: {}.
+Could you please identify and transcribe all the text contained in the table, and after doing so, answer the question provided: {}.
+Please take your time to extract all the visible text from the table and once you have completed this, kindly provide an answer to the question below: {}.
+I would like you to first decode all the text in the table and then, once you’ve finished, please provide the answer to this specific question: {}.
+Kindly extract the complete text from the table, and once that is done, please go ahead and answer the following question: {}.
+After recognizing and transcribing all the text in the table, could you please proceed with answering the question: {}.
+Please analyze the table, extract all visible text, and once you have completed the extraction, kindly provide the answer to the question that follows: {}.
+Could you process the table by extracting every piece of text, and after you’ve done that, please provide the necessary answer to the following question: {}.
+Kindly extract the text from the table, transcribe it accurately, and once that’s done, please proceed to answer the query: {}.
+I need your help to extract all the visible text in the table, and once you’ve successfully decoded it, please provide me with the answer to the following: {}.
+After decoding and extracting all the text from the table, could you kindly proceed with providing an answer to the following question: {}.
+Please carefully process the table and extract all the visible text, and once you’ve done that, kindly provide the corresponding answer to the question: {}.
+Could you assist by decoding all the visible text in the table, and once extracted, kindly answer the question provided: {}.
+Please extract all the textual information from the table and after doing so, kindly respond to the following question: {}.
+I would like you to carefully recognize all the visible text in the table, and once you've extracted it, please proceed with answering the question: {}.
+Could you read and transcribe every piece of text from the table, and once completed, kindly provide your response to the question below: {}.
+Please take a moment to extract the text from the table and once you’ve finished that, kindly go ahead and answer the question: {}.
+After decoding and extracting all the text from the table, kindly provide the answer to the question that follows: {}.
+Please carefully transcribe all the text visible in the table and after you have done so, kindly give me your answer to the following: {}.
+Read the text on the table. {}
+What are the exact words displayed in this table? {}
+What exact words are encoded in this table? {}
+Could you decode and provide me with the exact words in this table? {}
+Retrieve the sentences in the table, ignoring the background, providing text only. {}
+Would you be able to read and retrieve all the words in this table? {}
+Is it possible to identify all words in this table? {}
+What exact words are present in this table? {}
+Please tell me all the text content on the table. {}
+Identify the text content in the photo but without including the text coordinates. {}
+Parse the text in the table. {}
+Look at this table and tell me what is written on it without outputting text coordinates. {}
+Interpret the sentences on the table without providing the text position information. {}
+Can you convert the text in this table into written form? {}
